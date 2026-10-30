@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary of the Dhauladhars",
+  "description": "Secluded luxury Himalayan retreat in Dharamshala featuring bespoke estate suites, Ayurvedic wellness, mountain gastronomy, and high-altitude sanctuaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
